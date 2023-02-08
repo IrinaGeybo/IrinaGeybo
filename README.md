@@ -22,7 +22,8 @@ About me
 - [Bug-Reports]()
 - [Postman Collections]()
 
-
+## Certificates
+- [Stepik.Postman](https://drive.google.com/file/d/1tLdobibKd4xJz036RoBhC_Hchbqt7Fma/view?usp=share_link) 
 
 
 
