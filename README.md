@@ -4,7 +4,7 @@
 About me
 
 ## I'm a QA engineer
-
+- 🌱 I’m currently studuing in [OTUS](https://otus.ru/lessons/qa-engineer/)
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
 ## My CV
