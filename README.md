@@ -7,6 +7,9 @@ About me
 
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
+## My CV
+- [Link to my CV]() 
+
 
 ## Languages and Tools
 ![Flutter](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=47C5FB)
