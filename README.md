@@ -1,10 +1,14 @@
+### Hi there 👋, my name is Irina
 ![Header](https://github.com/IrinaGeybo/IrinaGeybo/blob/main/assets/photo_2023-02-07_11-23-36.jpg)
 
 About me
 
 ## I'm a QA engineer
 
-Languages and Tools
+- 📫 How to reach me: IrinaGeybo@gmail.com 
+
+
+## Languages and Tools
 ![Flutter](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=#F76935)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=DEVTOOLS&logoColor=#F76935)
@@ -12,4 +16,26 @@ Languages and Tools
 ![TESTIT](https://img.shields.io/badge/-TESTIT-090909?style=for-the-badge&logo=TESTIT&logoColor=#8CC4D7)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=#8CC4D7)
 
-Testing Documentation
+## Testing Documentation
+- [Checklists]() 
+- [Test-Cases]()
+- [Bug-Reports]()
+- [Postman Collections]()
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-irinageybo)
+
+
+
+
+
+
+
+
+
