@@ -19,8 +19,8 @@ About me
 ## Testing Documentation
 - [Checklists]() 
 - [Test-Cases]()
-- [Bug-Reports]()
-- [Postman Collections]()
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1il8IZ4m30L_OcRr_GQUfDVwR3IxZTI6V7FVMZDfzfLU/edit?usp=share_link)
+- [Postman Collections](https://warped-astronaut-641690.postman.co/workspace/4fd35fb0-dbe6-4f4c-8218-9c989d1110f6/collection/24556993-9952cd77-e37e-4e35-be88-d2c888e7a04d?action=share&creator=24556993)
 
 ## Certificates
 - [Stepik.Postman](https://drive.google.com/file/d/1tLdobibKd4xJz036RoBhC_Hchbqt7Fma/view?usp=share_link) 
