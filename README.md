@@ -1,4 +1,4 @@
-### Hello 👋, my name is Irina
+### Hello t coomi t 👋, my name is Irina
 ![Header](https://github.com/IrinaGeybo/IrinaGeybo/blob/main/assets/photo_2023-02-07_11-23-36.jpg)
 
 About me
@@ -24,10 +24,11 @@ About me
 - [Checklists](https://docs.google.com/spreadsheets/d/15lVqTt_styrEg0-MRuniCpd_bXgSGQcLGtO9Ri-W8xg/edit?usp=share_link) 
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1j5mnzkIl84WekPnSe5BoLadkqvS9R4Dz4AxKAIf4QJ4/edit?usp=share_link)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1il8IZ4m30L_OcRr_GQUfDVwR3IxZTI6V7FVMZDfzfLU/edit?usp=share_link)
-- [Postman Collections](https://warped-astronaut-641690.postman.co/workspace/4fd35fb0-dbe6-4f4c-8218-9c989d1110f6/collection/24556993-9952cd77-e37e-4e35-be88-d2c888e7a04d?action=share&creator=24556993)
+- [Postman Collections](https://drive.google.com/file/d/13hCyscntE7LowySHDZAlnjs4PCOO4phT/view?usp=share_link)
 
 ## Certificates
 - [Stepik.Postman](https://drive.google.com/file/d/1tLdobibKd4xJz036RoBhC_Hchbqt7Fma/view?usp=share_link) 
+
 
 
 
