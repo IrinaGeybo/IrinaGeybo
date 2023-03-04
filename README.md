@@ -1,9 +1,10 @@
-### Hello t coomi t 👋, my name is Irina
+### Hello 👋, my name is Irina
 ![Header](https://github.com/IrinaGeybo/IrinaGeybo/blob/main/assets/photo_2023-02-07_11-23-36.jpg)
 
 About me
 
 ## I'm a QA engineer
+- 🌱 I’m currently learning JavaScript
 - 🌱 I’m currently studying in [OTUS](https://otus.ru/lessons/qa-engineer/)
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
