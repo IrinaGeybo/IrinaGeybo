@@ -5,7 +5,7 @@ About me
 
 ## I'm a QA engineer
 - 🌱 I’m currently learning JavaScript
-- 🌱 I’m finishing my studies at [OTUS](https://otus.ru/lessons/qa-engineer/)
+- 🌱 I’m finishing my education at [OTUS](https://otus.ru/lessons/qa-engineer/)
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
 ## My CV
