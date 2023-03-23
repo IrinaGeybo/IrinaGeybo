@@ -9,7 +9,7 @@ About me
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
 ## My CV
-- [Link to my CV](https://drive.google.com/file/d/1vnj-0aM0ST9iYrcZ00W7b_xwSYy2jtTB/view?usp=share_link) 
+- [Link to my CV](https://drive.google.com/file/d/1JjsL0fgx1e1cLGDF91fRNnn2N9aqlGY7/view?usp=share_link) 
 
 
 ## Languages and Tools
