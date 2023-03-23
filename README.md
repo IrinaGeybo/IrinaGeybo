@@ -27,17 +27,6 @@ About me
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1il8IZ4m30L_OcRr_GQUfDVwR3IxZTI6V7FVMZDfzfLU/edit?usp=share_link)
 - [Postman Collections](https://drive.google.com/file/d/13hCyscntE7LowySHDZAlnjs4PCOO4phT/view?usp=share_link)
 
-## Competences
-- Knowledge of Testing theory.
-- Undestanding of SDLC and STLC.
-- Knowledge of test design techniques.
-- Experience in writing checklist, test cases.
-- Experience in writing bug reports, work in the Jira.
-- Familia with Devtools.
-- Knowledge of client-server architecture API testing 
-  with Postman, SOAP UI.
-- Expirience using Control Version Systems (Git).
-- Basic knowledge of SQL.
 
 ## Certificates
 - [Stepik.Postman](https://drive.google.com/file/d/1tLdobibKd4xJz036RoBhC_Hchbqt7Fma/view?usp=share_link) 
