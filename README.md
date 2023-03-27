@@ -19,7 +19,7 @@ About me
 ![GITHUB](https://img.shields.io/badge/-GitHUB-090909?style=for-the-badge&logo=Github&logoColor=#8CC4D7)
 ![TESTIT](https://img.shields.io/badge/-TESTIT-090909?style=for-the-badge&logo=TESTIT&logoColor=#8CC4D7)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=#8CC4D7)
-![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=Charles Proxy&logoColor=#8CC4D7)
+![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=#8CC4D7)
 ![SAP](https://img.shields.io/badge/-SAP-090909?style=for-the-badge&logo=SAP&logoColor=#8CC4D7)
 
 ## Testing Documentation
