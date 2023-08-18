@@ -28,6 +28,10 @@ About me
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1j5mnzkIl84WekPnSe5BoLadkqvS9R4Dz4AxKAIf4QJ4/edit?usp=share_link)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1il8IZ4m30L_OcRr_GQUfDVwR3IxZTI6V7FVMZDfzfLU/edit?usp=share_link)
 - [Postman Collections](https://drive.google.com/file/d/1CK9UUABLU-vGwoaWjYA5ietTx-Auk2wL/view?usp=share_link)
+- [Decision Table] (https://docs.google.com/spreadsheets/d/10i75Ok35x792PMj-wgR-zssVf-wxU7JW6YiTdCuaCb8/edit?usp=sharing)
+- [Equivalence class & boundary value] (https://docs.google.com/spreadsheets/d/1pIktGo4ugTnIq0Sv7Yp_HUny7L1jOdG3ZP_ExjxvOvk/edit?usp=sharing)
+
+
 
 
 ## Certificates
