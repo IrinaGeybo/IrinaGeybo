@@ -8,9 +8,6 @@ About me
 - 🌱 I finished my education at [OTUS](https://otus.ru/lessons/qa-engineer/). [My certificate](https://drive.google.com/file/d/1IjI7mRQIlQ-R8OJa5Df9c-dRM4URyTwO/view?usp=share_link)
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
-## My CV
-- [Link to my CV](https://drive.google.com/file/d/1Ngp3jxZ9lmz1GodTvYJ2Hy5YHwAFJklV/view?usp=share_link) 
-
 
 ## Languages and Tools
 ![Flutter](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=47C5FB)
@@ -22,14 +19,6 @@ About me
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=#8CC4D7)
 ![SAP](https://img.shields.io/badge/-SAP-090909?style=for-the-badge&logo=SAP&logoColor=#8CC4D7)
 
-## Testing Documentation
-- [Project work](https://docs.google.com/presentation/d/1SQzwfQyk7RBiFL_G11dTMuE6-pu34yBy0WzIxJigB8o/edit?usp=share_link)
-- [Checklists](https://docs.google.com/spreadsheets/d/15lVqTt_styrEg0-MRuniCpd_bXgSGQcLGtO9Ri-W8xg/edit?usp=share_link) 
-- [Test-Cases](https://docs.google.com/spreadsheets/d/1j5mnzkIl84WekPnSe5BoLadkqvS9R4Dz4AxKAIf4QJ4/edit?usp=share_link)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1il8IZ4m30L_OcRr_GQUfDVwR3IxZTI6V7FVMZDfzfLU/edit?usp=share_link)
-- [Postman Collections](https://drive.google.com/file/d/1CK9UUABLU-vGwoaWjYA5ietTx-Auk2wL/view?usp=share_link)
-- [Decision Table](https://docs.google.com/spreadsheets/d/10i75Ok35x792PMj-wgR-zssVf-wxU7JW6YiTdCuaCb8/edit?usp=sharing)
-- [Equivalence class & boundary value](https://docs.google.com/spreadsheets/d/1pIktGo4ugTnIq0Sv7Yp_HUny7L1jOdG3ZP_ExjxvOvk/edit?usp=sharing)
 
 
 ## Certificates
