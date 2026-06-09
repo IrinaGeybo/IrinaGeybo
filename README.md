@@ -5,7 +5,7 @@ About me
 
 ## I'm a QA engineer
 - 🌱 I’m currently learning Python for test automation at RedRover.School
-- 🌱 I finished my education at [OTUS](https://otus.ru/lessons/qa-engineer/). [My certificate](https://drive.google.com/file/d/1IjI7mRQIlQ-R8OJa5Df9c-dRM4URyTwO/view?usp=share_link)
+- 🌱 Completed a comprehensive, hands-on certification program focused on software testing  [OTUS](https://otus.ru/lessons/qa-engineer/). [My certificate](https://drive.google.com/file/d/1IjI7mRQIlQ-R8OJa5Df9c-dRM4URyTwO/view?usp=share_link)
 - 📫 How to reach me: IrinaGeybo@gmail.com 
 
 
